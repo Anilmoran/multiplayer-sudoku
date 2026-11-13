@@ -1,0 +1,1 @@
+UI sprites in Assets/Resources/CozyUI come from "Cozy UI Pack" by dobo_ui (https://dobo-ui.itch.io/). Used under the pack license.
